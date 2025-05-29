@@ -1,0 +1,1 @@
+This repo is all about integers—just me learning how numbers behave in Python. I’m not trying to be perfect here, I’m just showing up, writing code, and making sense of it one bug at a time. It’s basic, but it matters. Every small win counts.
